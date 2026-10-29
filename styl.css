@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.btn{
+    display: flex;
+    justify-content: space-between;
+}
+
+.d{
+    display: flex;
+    width: 400px;
+    size: 72px;
+}
+
+.f{
+    background-color:#2D2641 ;
+    color: white;
+}
+
+.o{
+    justify-content: space-between;
+    display: flex;
+}
+
+.e{
+    width: 146px;
+    height: 40px;
+    top: 264px;
+}
+
+.lo{
+    display: flex;
+    justify-content: center;
+}
+
+.k{
+    background-color: #2D2641;
+    color: white;
+}
+
+.class{
+    display: flex;
+    justify-content: center;
+}
+
+.java{
+    display: flex;
+    justify-content: space-between;
+}
+
+.fc{
+    display: flex;
+    justify-content: center;
+}
